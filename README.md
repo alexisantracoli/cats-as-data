@@ -8,3 +8,8 @@ I am adding some information to this file to change it so I can see how changes 
 file work.  I am changing this file again.
 
 You can put images of the mice that the cats eat here as well.
+
+Cleanup plan
+- Get rid of all caps in titles
+- Standardize the dates
+- Standardize the dimensions
