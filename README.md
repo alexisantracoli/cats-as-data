@@ -6,3 +6,5 @@ messier so you have something to clean up!
 
 I am adding some information to this file to change it so I can see how changes to an existing
 file work.  I am changing this file again.
+
+You can put images of the mice that the cats eat here as well.
